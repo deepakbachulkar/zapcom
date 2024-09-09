@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zapcom</string>
+    <string name="error_message">Network not available</string>
+</resources>
